@@ -1,0 +1,3 @@
+# Finans
+
+Aplikacja zaliczeniowa 
