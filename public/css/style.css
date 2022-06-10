@@ -1,0 +1,81 @@
+
+.tt{
+
+    color: green;
+    width: 30%;
+}
+body{
+    width:90%;
+    margin: 2em auto;
+    background-color: #eeeeee;
+
+}
+.test{
+    color: #111111;
+
+}
+.error{
+    color: red;
+    margin-left: 11em  ;
+}
+.error2{
+    color: red;
+    margin-left: 0  ;
+}
+.good{
+    color: green;
+    margin-left: 0  ;
+}
+.mainPanel{
+    text-decoration: none;
+}
+.po{
+     color: #2196F3;
+}
+
+.messages {	margin: 1em auto; }
+
+.err, .inf, .res {
+    padding: 1em 1em 1em 3em;
+    border-radius: 1em;
+    color: #222;
+}
+
+.red-input:focus{
+  color: red;
+    border: 1px solid red;
+}
+
+.err { background-color: #f88; }
+.inf { background-color: #8f8; }
+.res { background-color: #ff0; }
+
+/* Split the screen in half */
+.split {
+    height: 10%;
+    width: 50%;
+    position: fixed;
+
+
+    padding-top: 1em;
+}
+
+/* Control the left side */
+.left {
+    left: 0;
+}
+
+/* Control the right side */
+.right {
+    right: 0;
+}
+.good4{
+    color: red;
+}
+/* If you want the content centered horizontally and vertically */
+.centered {
+    position: absolute;
+    top: 10%;
+    left: 15%;
+    text-align: center;
+}
